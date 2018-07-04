@@ -8,3 +8,6 @@ Conteúdo sobre machine learning aplicado ao controle social. Referências sobre
 - http://www.feat.engineering/
 
 
+- https://cdr.ibpad.com.br/index.html
+
+
