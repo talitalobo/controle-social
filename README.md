@@ -9,5 +9,5 @@ Conteúdo sobre machine learning aplicado ao controle social. Referências sobre
 
 
 - https://cdr.ibpad.com.br/index.html
-
+- https://christophm.github.io/interpretable-ml-book/
 
